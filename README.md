@@ -1,5 +1,5 @@
 # tf2_ssd_mb2_dataset_prep_scripts
-Python scripts for converting PASCAL VOC annotations to TFRecords. The scripts requires intallation of Object Detection API of TensorFlow2 found in https://github.com/tensorflow/models/tree/master/research/object_detection
+This repository is a collection of Python scripts for converting PASCAL VOC annotations to TFRecords. I do not own all the codes and some of them were based from tutorials on using TF2 object detection API. The scripts require installation of Object Detection API of TensorFlow2 found in https://github.com/tensorflow/models/tree/master/research/object_detection
 
 # Instructions
 1. Use xml2csv.py to create *.csv files of each dataset group (train, val, and test) from PASCAL VOC annotations.
