@@ -1,0 +1,9 @@
+item {
+  id: 1
+  display_name: "with weeds"
+}
+
+item {
+  id: 2
+  display_name: "without weeds"
+}
